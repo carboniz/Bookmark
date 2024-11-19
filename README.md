@@ -1,3 +1,4 @@
+- [Linux 101](https://101.lug.ustc.edu.cn/) ustc #linux
 - [ssh key-github](https://blog.csdn.net/weixin_42310154/article/details/118340458)
 
 # About
