@@ -1,3 +1,4 @@
+- [Hugo + Blowfish](https://ghomist.github.io/blog/posts/first-blog/) #hugo
 - [GitHub Pages + Hugo](https://krislinzhao.github.io/docs/create-a-wesite-using-github-pages-and-hugo/) #hugo#github
 - [Linux 101](https://101.lug.ustc.edu.cn/) ustc #linux
 - [ssh key-github](https://blog.csdn.net/weixin_42310154/article/details/118340458)
