@@ -1,3 +1,4 @@
+- [git](https://segmentfault.com/a/1190000022272311)
 - [SSH配置](https://developer.aliyun.com/article/1592523)
 - [Hugo + Blowfish](https://ghomist.github.io/blog/posts/first-blog/) #hugo
 - [GitHub Pages + Hugo](https://krislinzhao.github.io/docs/create-a-wesite-using-github-pages-and-hugo/) #hugo#github
